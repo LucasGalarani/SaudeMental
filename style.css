@@ -1,0 +1,12 @@
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav ul li a {
+    color: #000;
+    text-decoration: none;
+}
+
