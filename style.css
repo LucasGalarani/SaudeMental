@@ -67,5 +67,45 @@ nav a:hover {
   }
 
 #importancia {
-    
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+#importancia h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 48px;
+  margin: 0;
+  border-bottom: 2px solid #000;
+  padding: 0.5rem;
+  display: inline-block;
+}
+
+#importancia p {
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #444;
+  line-height: 1.5;
+  margin: 1rem;
+  width: 40%;
+}
+
+#importancia img {
+  width: 45%;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+#importancia li {
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #444;
+  line-height: 1.5;
+  margin: 1rem;
+  width: 40%;
 }
