@@ -180,6 +180,47 @@ nav a:hover {
   margin: 1rem;
 }
 
+#principais {
+  padding: 2rem;
+  background-color: #f8f8f8;
+}
+
+#principais h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 48px;
+  margin: 0;
+  border-bottom: 2px solid #000;
+  padding: 0.5rem;
+  display: inline-block;
+}
+
+#principais p {
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #444;
+  line-height: 1.5;
+  margin: 1rem;
+}
+
+#principais strong {
+  font-family: 'Amatic SC', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #444;
+  line-height: 1.5;
+  margin: 1rem;
+
+}
+
+#principais li {
+  font-family: 'Amatic SC', cursive;
+  font-size: 28px;
+  margin: 0;
+  padding: 0.5rem;
+  display: inline-block;
+}
+
 #fale-conosco {
   padding: 2rem;
   background-color: #fff;
