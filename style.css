@@ -77,7 +77,11 @@ nav a:hover {
   }
 
   #importancia {
-    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
     background-color: #f8f8f8;
   }
   
@@ -102,6 +106,8 @@ nav a:hover {
   }
   
   #importancia img {
+    display: flex;
+    flex-direction: row;
     width: 45%;
     margin-bottom: 1rem;
     border-radius: 5px;
