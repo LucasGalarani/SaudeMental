@@ -5,5 +5,3 @@ este trabalho realizado por Lucas Galarani e Luana da turma de info1 conta com a
 ### Oque é
 
 este site tem fim de conscientizar alunos e outras pessoas sobre saude mental e os graves problemas que podem ocorrer.
-
-### Foto do site:
