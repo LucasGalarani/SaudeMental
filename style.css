@@ -54,6 +54,10 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+#o-que-e img {
+    width: 40%;
+}
+
 #importancia {
     background-color: #f9f9f9;
     padding: 50px 0;
@@ -78,10 +82,17 @@ nav a:hover {
 }
 
 #importancia img {
-    width: 100%;
+    width: 80%;
     max-width: 500px;
     margin: 20px 0;
 }
+
+#importancia div img {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} 
 
 #tipos {
     background-color: #f9f9f9;
