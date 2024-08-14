@@ -10,13 +10,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de um browser
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando <saudeMental>
 
 Para instalar o <saudeMental>, siga estas etapas:
 1-Baixe os arquivos
 2-Abra em um navegador de sua escolha
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <saudeMentalo>
 
 Para usar <SaudeMental>, siga estas etapas:
 Basta dar dois cliques no arquivo: index.html
