@@ -72,7 +72,7 @@ nav a:hover {
 }
 
 #importancia h3 {
-    font-size: 2em;
+    font-size: 3em;
     margin-bottom: 20px;
 }
 
@@ -119,6 +119,11 @@ nav a:hover {
 #tipos li {
     font-size: 1.5em;
     margin-bottom: 20px;
+    list-style-type: decimal;
+}
+
+#transtornos {
+    width: 30%;
 }
 
 #principais {
@@ -131,6 +136,7 @@ nav a:hover {
 #principais h2 {
     font-size: 2.5em;
     margin-bottom: 20px;
+    text-align: left;
 }
 
 #principais h3 {
@@ -141,6 +147,11 @@ nav a:hover {
 #principais p {
     font-size: 1.5em;
     margin-bottom: 20px;
+}
+
+#principais img {
+    width: 30%;
+    height: 30%;
 }
 
 #saude{
