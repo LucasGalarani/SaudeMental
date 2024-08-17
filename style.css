@@ -69,6 +69,7 @@ nav a:hover {
 #importancia h2 {
     font-size: 2.5em;
     margin-bottom: 20px;
+    color: #9260eb;
 }
 
 #importancia h3 {
@@ -117,7 +118,7 @@ nav a:hover {
 }
 
 #tipos li {
-    font-size: 1.5em;
+    font-size: 2em;
     margin-bottom: 20px;
     list-style-type: decimal;
 }
@@ -134,24 +135,19 @@ nav a:hover {
 }
 
 #principais h2 {
-    font-size: 2.5em;
+    font-size: 5em;
     margin-bottom: 20px;
     text-align: left;
 }
 
 #principais h3 {
-    font-size: 2em;
+    font-size: 5em;
     margin-bottom: 20px;
 }
 
 #principais p {
     font-size: 1.5em;
     margin-bottom: 20px;
-}
-
-#principais img {
-    width: 30%;
-    height: 30%;
 }
 
 #saude{
@@ -189,3 +185,4 @@ footer {
     font-family: 'Roboto Slab', serif;
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
 }	
+
